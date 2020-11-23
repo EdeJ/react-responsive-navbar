@@ -1,9 +1,9 @@
 import React from 'react';
 import './Backdrop.css';
 
-function Backdrop() {
+function Backdrop({ backdropClickHandler }) {
     return (
-        <div className="backdrop">
+        <div className="backdrop" onClick={backdropClickHandler}>
 
         </div>
     )
