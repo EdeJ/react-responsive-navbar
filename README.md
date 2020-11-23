@@ -1,1 +1,1 @@
-#Responsive navigtion bar width sliding menu.#
+#Responsive navigtion bar width sliding menu.
