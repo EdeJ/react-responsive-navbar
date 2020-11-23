@@ -1,4 +1,4 @@
-# Responsive navigtion bar with sliding menu.
+# Responsive navigtion bar with sliding menu
 
 * REACT
 * CSS
