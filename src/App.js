@@ -27,7 +27,7 @@ function App() {
         <p>Page content</p>
       </main>
     </div>
-  );
+  )
 }
 
 export default App;
